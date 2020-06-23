@@ -1,4 +1,4 @@
-Cloud-Computing - Projektaufgabe - DHBW-Stuttgart
+Cloud-Computing - Projektaufgabe - M. Hieber - DHBW-Stuttgart
 
 Nachfolgender Befehl / Command lädt das Repository direkt herunter und startet die nötigen Services mittels docker-compose direkt. Anschließend folgt mit kurzer Verzögerung das Öffnen der Website, auf welcher sich der Reminder findet.
 
